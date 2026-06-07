@@ -1,0 +1,24 @@
+Dataset Name: Damaged and Intact Packages Dataset 
+
+Dataset Source: Kaggle 
+
+Dataset Link: 
+
+https://www.kaggle.com/datasets/rahulm7323/damaged-and-intact-packages
+
+5. Dataset Description 
+
+The selected dataset consists of package images used for binary image classification. 
+The images are categorized into two classes based on package condition. 
+
+Total Number of Images: Approximately 628 images 
+
+Number of Classes: 2 
+
+Classes: Damaged Package, Intact Package 
+
+Image Type: RGB Images 
+
+Task Type: Binary Image Classification 
+
+Class Distribution: Images are distributed between damaged and intact categories 
