@@ -25,6 +25,13 @@ The dataset contains images of:
 * Scikit-learn
 * Jupyter Notebook
 
+## How to Run the Project
+
+Clone the repository
+Install required libraries
+Open the notebook file
+Run all cells sequentially
+
 ## Project Workflow
 
 1. Dataset Loading
