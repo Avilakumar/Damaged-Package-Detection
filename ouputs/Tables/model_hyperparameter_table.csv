@@ -1,0 +1,6 @@
+Hyperparameter,Value
+Image Size,224x224
+Batch Size,32
+Epochs,10
+Optimizer,Adam
+Loss Function,Binary Crossentropy
